@@ -1,0 +1,2 @@
+# GAS_seibuReservationForm
+西武講堂の予約フォーム用のスクリプト
